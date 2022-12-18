@@ -3,6 +3,16 @@ Highly advanced Sea of Thieves Hack/Cheat.
 
 It's paid version and I & Gummy made it possible for you to use it for free. 
 
+
+USAGE:
+
+1. Launch SoT.exe [Sea of Thieves]
+2. Set SoT in Window Mode! [IMPORTANT]
+3. Then launch PVP SOT.exe [PVP ARENA 3.7.1]
+4. Enjoy your time - If any problem is in your way, contact me.
+
+
+
 Features:
 - FULL ESP/WALLHACK (SHIP/PLAYER/LOOT/TALLTALE)
 - WARFRAME HACK
@@ -24,7 +34,7 @@ There is also [option] called [WriteMemory]. - It can get you banned in the futu
 Trust me it's not that rare.
 
 IF YOU WANT TO USE IT, USE IT WITH CAUTION!
- [VPN/IP SPOOFER/PROXY]
+ [DO NOT USE ON MAIN, USE IT ON ALT]
 
 
 STAY SAFE EVERYWHERE - #Mitropolti
