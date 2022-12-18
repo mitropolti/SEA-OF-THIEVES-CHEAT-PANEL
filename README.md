@@ -6,9 +6,14 @@ It's paid version and I & Gummy made it possible for you to use it for free.
 USAGE:
 
 1. Launch SoT.exe [Sea of Thieves]
+
 2. Set SoT in Window Mode! [IMPORTANT]
+
 3. Then launch PVP SOT.exe [PVP ARENA 3.7.1]
-4. Enjoy your time - If any problem is in your way, contact me.
+
+4. Press [HOME / END / INSERT] to open [CheatTable]
+
+5. Enjoy your time - If any problem is in your way, contact me.
 
 
 
