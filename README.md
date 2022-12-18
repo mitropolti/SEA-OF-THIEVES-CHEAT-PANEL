@@ -1,5 +1,4 @@
 # SEA OF THIEVES - PVP CHEAT PANEL - PAID VERSION FOR FREE!
-Highly advanced Sea of Thieves Hack/Cheat.
 
 It's paid version and I & Gummy made it possible for you to use it for free. 
 
