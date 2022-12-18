@@ -1,7 +1,7 @@
-# PVP-SOT-HACK
+# PVP-PAID-SOT-CHEAT-PANEL
 Highly advanced Sea of Thieves Hack/Cheat.
 
-It's paid version and I made it possible for you to use it for free. 
+It's paid version and I & Gummy made it possible for you to use it for free. 
 
 Features:
 - FULL ESP/WALLHACK (SHIP/PLAYER/LOOT/TALLTALE)
@@ -20,6 +20,11 @@ AND MANY MORE...
 ![CYiHnPX](https://user-images.githubusercontent.com/120369492/208279381-2ed14634-5dc6-4a6c-8e30-9433232640bb.png)
 
 
-Enjoy and take care, don't use 'MEMORY WRITE' unless you want to risk your own profile. In that case I recommend using ALT account. 
+There is also [option] called [WriteMemory]. - It can get you banned in the future or you can get spotted by [DEV].
+Trust me it's not that rare.
 
-Stay safe everywhere, Mitropolti.
+IF YOU WANT TO USE IT, USE IT WITH CAUTION!
+ [VPN/IP SPOOFER/PROXY]
+
+
+STAY SAFE EVERYWHERE - #Mitropolti
