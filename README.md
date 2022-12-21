@@ -5,13 +5,13 @@ It's paid version and I & Gummy made it possible for you to use it for free.
 
 USAGE:
 
-1. Launch SoT.exe [Sea of Thieves]
+1. Launch SoT.exe
 
 2. Set SoT in Window Mode! [IMPORTANT]
 
-3. Then launch PVP SOT.exe [PVP ARENA 3.7.1]
+3. Then launch PVP SOT.exe
 
-4. Press [HOME / END / INSERT] to open [CheatTable]
+4. Press [home/end/insert] to open [CheatTable]
 
 5. Enjoy your time - If any problem is in your way, contact me.
 
@@ -32,6 +32,7 @@ Features:
 AND MANY MORE...
 
 ![CYiHnPX](https://user-images.githubusercontent.com/120369492/208279381-2ed14634-5dc6-4a6c-8e30-9433232640bb.png)
+
 
 
 There is also [option] called [WriteMemory]. - It can get you banned in the future or you can get spotted by [DEV].
