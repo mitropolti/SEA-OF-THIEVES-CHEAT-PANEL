@@ -7,10 +7,10 @@ Latest version is up to date!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 3.7.1   | :white_check_mark: |
+| 4.0.1   | SOON :white_check_mark: |
+| 3.7.1   | :x:                |
 | 2.8.x   | :x:                |
-| 1.4.x   | :x: |
-| < pre1.2   | :x:                |
+| < 1.4.x | :x:                |
 
 ## Reporting a Vulnerability
 
