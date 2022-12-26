@@ -1,4 +1,4 @@
-# SEA OF THIEVES - PVP CHEAT PANEL (CHECK UPDATE UNDER SECTION 'RELEASES')
+# SEA OF THIEVES - PVP CHEAT PANEL 
 
 It's paid version and I & Gummy made it possible for you to use it for free. 
 
