@@ -7,9 +7,9 @@ Latest version is up to date!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 4.7.1   | :white_check_mark: |
-| 3.7.1   | :x:                |
-| 2.8.x   | :x:                |
+| 5.1.0   | :white_check_mark: |
+| 4.7.1   | :x:                |
+| 3.8.x   | :x:                |
 | < 1.4.x | :x:                |
 
 ## Reporting a Vulnerability
